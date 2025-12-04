@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yt5sis.github.io/tools/
+
+Sitemap: https://ezmp3.github.io/tools/sitemap.xml
