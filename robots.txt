@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ezmp3.github.io/tools/sitemap.xml
+Sitemap: https://ezmp3.github.io/tools/
+
